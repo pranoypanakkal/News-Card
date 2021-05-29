@@ -8,7 +8,6 @@ import CardList from "./components/CardList/CardList";
 import "./App.css";
 
 function App() {
-  const INTERVAL_MS = 10;
   const [articles, setArticles] = useState();
   const [category, setCategory] = useState("everything");
   const categoryList = [
