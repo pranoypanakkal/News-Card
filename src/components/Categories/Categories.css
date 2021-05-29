@@ -1,0 +1,10 @@
+.filter {
+  border: 1px solid #c4c4c4;
+  border-radius: 30px;
+  cursor: pointer;
+  width: fit-content !important;
+}
+
+.filter:hover {
+  border: 1px solid;
+}
